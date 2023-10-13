@@ -1,2 +1,1 @@
-Alx 0x10. C - Variadic functions project
-
+alx 0x10. C - Variadic functions project
